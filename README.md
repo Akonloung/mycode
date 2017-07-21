@@ -1,0 +1,2 @@
+# mycode
+printf {"Hello guyus"};
